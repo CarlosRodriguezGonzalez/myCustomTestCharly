@@ -1,0 +1,22 @@
+{
+  "name": "myCustomTestCharly",
+  "version": "0.1.0",
+  "summary": "A short description of myCustomTestCharly.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/carlosRodriguezGonzalez/myCustomTestCharly",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "carlosRodriguezGonzalez": "carlos.rodriguez@live.u-tad.com"
+  },
+  "source": {
+    "git": "https://github.com/carlosRodriguezGonzalez/myCustomTestCharly.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myCustomTestCharly/Classes/**/*"
+}

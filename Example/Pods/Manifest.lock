@@ -1,0 +1,16 @@
+PODS:
+  - myCustomTestCharly (0.1.0)
+
+DEPENDENCIES:
+  - myCustomTestCharly (from `../`)
+
+EXTERNAL SOURCES:
+  myCustomTestCharly:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myCustomTestCharly: 8da1e24199fc9e32c33b87f70a08a4bbcf6dd59c
+
+PODFILE CHECKSUM: 8517d4861e2eb0edf8526f8ff27e5525b7c1072f
+
+COCOAPODS: 1.5.0

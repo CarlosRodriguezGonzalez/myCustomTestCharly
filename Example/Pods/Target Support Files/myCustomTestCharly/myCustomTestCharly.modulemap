@@ -1,0 +1,6 @@
+framework module myCustomTestCharly {
+  umbrella header "myCustomTestCharly-umbrella.h"
+
+  export *
+  module * { export * }
+}
