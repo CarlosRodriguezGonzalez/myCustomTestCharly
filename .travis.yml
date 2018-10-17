@@ -15,7 +15,7 @@
 #- set -o pipefail && xcodebuild test -enableCodeCoverage YES -workspace Example/myCustomTestCharly.xcworkspace -scheme myCustomTestCharly-Example -destination \"platform=iOS Simulator,name=iPhone 8\" | xcpretty
 #- pod lib lint
 
-language: objective-c
+language: swift
 osx_image: xcode10
 xcode_sdk: iphonesimulator12.0
 script:
