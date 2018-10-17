@@ -9,7 +9,10 @@
 Pod::Spec.new do |s|
   s.name             = 'myCustomTestCharly'
   s.version          = '0.2.0'
-  s.summary          = 'A short description of myCustomTestCharly.'
+  s.summary          = 'Its a pod test and will get updated with things.'
+  s.platform = :ios
+  s.ios.deployment_target = '10.0'
+  s.swift_version = "4.2"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
