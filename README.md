@@ -1,6 +1,6 @@
 # myCustomTestCharly
 
-[![CI Status](https://img.shields.io/travis/carlosRodriguezGonzalez/myCustomTestCharly.svg?style=flat)](https://travis-ci.org/carlosRodriguezGonzalez/myCustomTestCharly)
+[![CI Status](https://img.shields.io/travis/carlosRodriguezGonzalez/myCustomTestCharly.svg?style=flat)](https://travis-ci.org/CarlosRodriguezGonzalez/myCustomTestCharly)
 [![Version](https://img.shields.io/cocoapods/v/myCustomTestCharly.svg?style=flat)](https://cocoapods.org/pods/myCustomTestCharly)
 [![License](https://img.shields.io/cocoapods/l/myCustomTestCharly.svg?style=flat)](https://cocoapods.org/pods/myCustomTestCharly)
 [![Platform](https://img.shields.io/cocoapods/p/myCustomTestCharly.svg?style=flat)](https://cocoapods.org/pods/myCustomTestCharly)
@@ -22,7 +22,7 @@ pod 'myCustomTestCharly'
 
 ## Author
 
-carlosRodriguezGonzalez, carlos.rodriguez@live.u-tad.com
+carlosRodriguezGonzalez, carlosrg1997@hotmail.com
 
 ## License
 
