@@ -31,8 +31,6 @@ TODO: Add long description of the pod here. its just a description to avoid warn
   s.source           = { :git => 'https://github.com/CarlosRodriguezGonzalez/myCustomTestCharly.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
-
   s.source_files = 'myCustomTestCharly/Classes/**/*'
   
   # s.resource_bundles = {
